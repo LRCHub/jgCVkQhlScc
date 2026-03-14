@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Cupid (Twin Version)",
+  "base_artist": "FIFTY FIFTY",
+  "createdAt": "2026-03-14T16:54:26.599129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cupid (Twin Ver.)",
+      "artist": "FIFTY FIFTY",
+      "has_synced": true,
+      "path": "select/01_Cupid_(Twin_Ver.)_FIFTY_FIFTY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cupid (Twin Version)",
+      "artist": "FIFTY FIFTY",
+      "has_synced": true,
+      "path": "select/02_Cupid_(Twin_Version)_FIFTY_FIFTY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cupid (Twin Version)",
+      "artist": "FIFTY FIFTY (피프티피프티)",
+      "has_synced": true,
+      "path": "select/03_Cupid_(Twin_Version)_FIFTY_FIFTY_(피프티피프티).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cupid (Twin Ver.)",
+      "artist": "FIFTY FIFTY",
+      "has_synced": true,
+      "path": "select/04_Cupid_(Twin_Ver.)_FIFTY_FIFTY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cupid (Twin Ver.)",
+      "artist": "Fifty fifty",
+      "has_synced": true,
+      "path": "select/05_Cupid_(Twin_Ver.)_Fifty_fifty.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cupid – Twin Ver. (feat. Sabrina Carpenter)",
+      "artist": "FIFTY FIFTY feat. Sabrina Carpenter",
+      "has_synced": true,
+      "path": "select/06_Cupid_–_Twin_Ver._(feat._Sabrina_Carpenter)_FIFTY_FIFTY_feat._Sabrina_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cupid – Twin Ver. (feat. Sabrina Carpenter)",
+      "artist": "Fifty Fifty, Sabrina Carpenter",
+      "has_synced": true,
+      "path": "select/07_Cupid_–_Twin_Ver._(feat._Sabrina_Carpenter)_Fifty_Fifty,_Sabrina_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cupid (Twin Ver.)",
+      "artist": "FIFTY FIFTY",
+      "has_synced": true,
+      "path": "select/08_Cupid_(Twin_Ver.)_FIFTY_FIFTY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version",
+      "artist": "sped up 8282",
+      "has_synced": true,
+      "path": "select/09_Cupid_–_Twin_Ver._(FIFTY_FIFTY)_–_Sped_Up_Version_sped_up_8282.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version",
+      "artist": "sped up 8282",
+      "has_synced": true,
+      "path": "select/10_Cupid_–_Twin_Ver._(FIFTY_FIFTY)_–_Sped_Up_Version_sped_up_8282.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cupid (Twin Ver.) - Slowed Down Version",
+      "artist": "FIFTY FIFTY",
+      "has_synced": true,
+      "path": "select/11_Cupid_(Twin_Ver.)_-_Slowed_Down_Version_FIFTY_FIFTY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cupid (Twin Ver.) (Slowed Down Version)",
+      "artist": "Fifty Fifty",
+      "has_synced": false,
+      "path": "select/12_Cupid_(Twin_Ver.)_(Slowed_Down_Version)_Fifty_Fifty.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cupid (Twin Ver.)",
+      "artist": "Fifty fifty",
+      "has_synced": true,
+      "path": "select/13_Cupid_(Twin_Ver.)_Fifty_fifty.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cupid (Twin Ver.)",
+      "artist": "Fifty fifty",
+      "has_synced": true,
+      "path": "select/14_Cupid_(Twin_Ver.)_Fifty_fifty.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cupid – Twin Ver. (FIFTY FIFTY) – Sped Up Version",
+      "artist": "FIFTY FIFTY",
+      "has_synced": true,
+      "path": "select/15_Cupid_–_Twin_Ver._(FIFTY_FIFTY)_–_Sped_Up_Version_FIFTY_FIFTY.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cupid (Twin Ver., Live Studio Ver. OT4)",
+      "artist": "Fifty Fifty",
+      "has_synced": true,
+      "path": "select/16_Cupid_(Twin_Ver.,_Live_Studio_Ver._OT4)_Fifty_Fifty.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cupid – Twin Ver. (feat. Sabrina Carpenter)",
+      "artist": "FIFTY FIFTY",
+      "has_synced": true,
+      "path": "select/17_Cupid_–_Twin_Ver._(feat._Sabrina_Carpenter)_FIFTY_FIFTY.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cupid (Twin Ver.) Sped Up Ver.",
+      "artist": "FIFTY FIFTY",
+      "has_synced": true,
+      "path": "select/18_Cupid_(Twin_Ver.)_Sped_Up_Ver._FIFTY_FIFTY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "has_synced": false,
+      "path": "select/pl_01_Cupid_-_Twin_Ver._FIFTY_FIFTY.txt"
+    }
+  ]
+}
