@@ -3,59 +3,57 @@
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:01.80] La, la, la, la-la-la
-[00:04.62] La, la-la-la-la, la-la-la
-[00:17.12] 
-[00:07.66] A hopeless romantic all my life
-[00:11.57] Surrounded by couples all the time
-[00:14.76] I guess I should take it as a sign
-[00:18.36] (Oh, why? Oh, why? Oh, why? Oh, why?)
-[00:36.86] 
-[00:19.90] I'm feeling lonely (lonely)
-[00:21.87] Oh, I wish I'd find a lover that could hold me (hold me)
-[00:24.93] Now I'm crying in my room
-[00:27.21] So skeptical of love (say what you say, but I want it more)
-[00:32.77] But still I want it more, more, more
-[00:50.77] 
-[00:33.46] I gave a second chance to Cupid
-[00:35.93] But now I'm left here feeling stupid (oh, oh-oh, oh-oh-oh)
-[00:39.60] Oh, the way he makes me feel that love isn't real
-[00:43.36] Cupid is so dumb (oh, oh, oh)
-[00:57.86] 
-[00:47.22] I look for his arrows every day (ah)
-[00:51.38] I guess he got lost or flew away (ah)
-[00:53.92] Waiting around is a waste (waste)
-[00:55.37] Been counting the days since November
-[00:57.49] Is loving as good as they say? (Ah, ah)
-[01:16.99] 
-[00:59.89] Now I'm so lonely (lonely)
-[01:01.98] Oh, I wish I'd find a lover that could hold me (hold me)
-[01:05.30] Now I'm crying in my room
-[01:07.14] So skeptical of love (say what you say, but I want it more)
-[01:09.91] But still I want it more, more, more
-[01:27.91] 
-[01:12.61] I gave a second chance to Cupid
-[01:15.78] But now I'm left here feeling stupid (oh, oh-oh, oh-oh-oh)
-[01:19.80] Oh, the way he makes me feel that love isn't real
-[01:23.65] Cupid is so dumb (oh, oh, oh)
-[01:38.15] 
-[01:32.15] (Oh-oh)
-[01:35.86] (Oh, oh, oh-oh, oh-oh-oh-oh-oh)
-[01:51.36] 
-[01:37.16] Cupid is so dumb (oh, oh, oh)
-[01:51.66] 
-[01:40.68] Hopeless girl is seeking
-[01:44.02] Someone who will share this feeling
-[01:47.12] I'm a fool
-[01:49.04] A fool for love, a fool for love
-[02:05.04] 
-[01:54.18] I gave a second chance to Cupid
-[01:57.64] But now I'm left here feeling stupid (oh, oh-oh, oh-oh-oh)
-[02:01.40] Oh, the way he makes me feel that love isn't real
-[02:05.62] Cupid is so dumb (oh, oh, oh)
-[02:20.12] 
-[02:07.44] I gave a second chance to Cupid (hopeless girl)
-[02:10.98] But now I'm left here feeling stupid (is seeking someone who will share this feeling)
-[02:14.77] Oh, the way he makes me feel that love isn't real (I'm a fool, a fool for love)
-[02:18.66] Cupid is so dumb (a fool for love) (oh, oh, oh)
+[00:01.11] La, la, la, la-la-la
+[00:04.87] La, la-la-la, la, la-la-la
+[00:17.87] 
+[00:09.70] A hopeless romantic all my life
+[00:13.69] Surrounded by couples all the time
+[00:17.86] I guess I should take it as a sign
+[00:21.78] (Oh why, oh why, oh why, oh why?)
+[00:38.28] 
+[00:24.27] I'm feeling lonely (lonely)
+[00:26.42] Oh, I wish I'd find a lover that could hold me (hold me)
+[00:30.32] Now I'm crying in my room
+[00:32.78] So skeptical of love (say what you say, but I want it more)
+[00:35.76] But still, I want it more, more, more
+[00:54.26] 
+[00:39.34] I gave a second chance to Cupid
+[00:43.26] But now I'm left here feeling stupid (oh-oh-oh)
+[00:47.81] Oh, the way he makes me feel that love isn't real
+[00:52.76] Cupid is so dumb (oh-oh)
+[01:04.76] 
+[00:57.78] I look for his arrows every day
+[01:01.76] I guess he got lost or flew away (ooh)
+[01:04.95] Waiting around is a waste (waste)
+[01:06.84] Been counting the days since November
+[01:08.84] Is loving as good as they say?
+[01:23.84] 
+[01:12.20] Now I'm so lonely (lonely)
+[01:14.38] Oh, I wish I'd find a lover that could hold me (hold me)
+[01:18.54] Now I'm crying in my room
+[01:20.89] So skeptical of love (say what you say, but I want it more)
+[01:23.73] But still, I want it more, more, more
+[01:42.23] 
+[01:27.28] I gave a second chance to Cupid
+[01:31.11] But now I'm left here feeling stupid (oh-oh-oh)
+[01:36.06] Oh, the way he makes me feel that love isn't real
+[01:40.85] Cupid is so dumb (oh-oh)
+[01:46.06] (Oh-oh)
+[01:49.32] (Oh-oh-oh)
+[01:56.75] (Cupid is so dumb, oh-oh-oh)
+[02:10.75] 
+[02:01.03] Hopeless girl is seeking
+[02:04.92] Someone who will share this feeling
+[02:09.24] I'm a fool
+[02:11.60] A fool for love, a fool for love
+[02:27.60] 
+[02:17.31] I gave a second chance to Cupid
+[02:21.21] But now I'm left here feeling stupid (oh-oh-oh)
+[02:25.92] Oh, the way he makes me feel that love isn't real
+[02:30.83] Cupid is so dumb
+[02:38.83] 
+[02:33.19] I gave a second chance to Cupid (hopeless girl is seeking someone)
+[02:37.08] But now I'm left here feeling stupid (who will share this feeling)
+[02:41.98] Oh, the way he makes me feel that love isn't real (I'm a fool)
+[02:46.75] Cupid is so dumb (oh-oh-oh)
 ```
